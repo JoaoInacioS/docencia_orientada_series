@@ -1,1 +1,1 @@
-# docencia_orientada_series
+# Códigos elaborados para ministrar as aulas da docência orientada na disciplina de séries II no curso bacharelado em Estatística - UFSM.
